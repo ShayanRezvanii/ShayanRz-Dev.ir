@@ -5,7 +5,7 @@ function Contact() {
   return (
     <div
       id="Contact"
-      className="w-full min-h-screen bg-neutral-900 flex flex-col p-10 md:p-0 items-center justify-center text-center max-w-[1240px] mx-auto"
+      className="w-full min-h-screen bg-neutral-900 flex flex-col px-5 md:p-0 items-center justify-center text-center max-w-[1240px] mx-auto"
     >
       <div>
         <p className="text-neutral-100 my-10 lg:text-4xl text-2xl font-RubikbBold">
@@ -39,7 +39,7 @@ function Contact() {
               <Sms size="32" variant="Bold" />
               <h4>EMAIL</h4>
             </div>
-            <p>shayanrezvani5@gmail.com</p>
+            <p  className="text-sm">shayanrezvani5@gmail.com</p>
           </li>
           <li className="w-full flex group justify-between items-center p-4 rounded-xl bg-neutral-700 text-white hover:shadow-xl duration-300">
             <div className="flex items-center justify-center space-x-2 group-hover:text-green-500 duration-300">
