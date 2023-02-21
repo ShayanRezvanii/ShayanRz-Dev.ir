@@ -19,6 +19,11 @@ function Project() {
       Link: "https://github.com/ShayanRezvanii/Weblog-with-Node-js-MongoDB-",
       active: false,
     },
+    {
+      title: "Weather App",
+      Link: "https://github.com/ShayanRezvanii/weather-app",
+      active: false,
+    },
   ];
   return (
     <div
