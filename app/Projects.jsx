@@ -24,6 +24,14 @@ function Project() {
       Link: "https://github.com/ShayanRezvanii/weather-app",
       active: false,
     },
+    {
+      title: "CSS Animate form",
+      Link: "https://github.com/ShayanRezvanii/Login-Form-with-animate-",
+      active: false,
+    },
+
+
+    
   ];
   return (
     <div
