@@ -11,6 +11,8 @@ import React from "react";
 import profile from "../public/profile.jpg";
 import { FiGithub } from "react-icons/fi";
 import { Link } from "react-scroll";
+
+
 function Sidebar({ status }) {
   return (
     <div
